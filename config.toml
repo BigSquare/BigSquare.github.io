@@ -1,7 +1,7 @@
 baseurl = "https://BigSquare.github.io/"
 title = "Academic"
 copyright = "&copy; 2017 Your Name"
-theme = "dark"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
