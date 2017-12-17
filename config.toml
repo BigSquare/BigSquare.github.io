@@ -1,7 +1,7 @@
 baseurl = "https://BigSquare.github.io/"
 title = "Academic"
 copyright = "&copy; 2017 Your Name"
-theme = "academic"
+theme = "dark"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
